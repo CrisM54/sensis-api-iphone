@@ -1,0 +1,8 @@
+
+
+@interface LoadingView : UIView 
+{
+
+}
+
+@end
