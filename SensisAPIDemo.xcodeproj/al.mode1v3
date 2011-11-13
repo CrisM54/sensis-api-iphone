@@ -255,6 +255,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -290,10 +292,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
-								<string>080E96DDFE201D6D7F000001</string>
-								<string>29B97315FDCFA39411CA2CEA</string>
-								<string>29B97317FDCFA39411CA2CEA</string>
-								<string>29B97323FDCFA39411CA2CEA</string>
 								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
@@ -301,7 +299,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>15</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -337,14 +334,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>SensisAPIDataFetcher.m</string>
+								<string>SensisAPIKey.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -352,11 +347,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>SensisAPIDataFetcher.m</string>
+										<string>SensisAPIKey.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>61F1E16F13EEEF9F00EF5D9C</string>
+										<string>61DD6F88146F7427004AF8E0</string>
 										<key>history</key>
 										<array>
 											<string>61DC61031330A29700397DE8</string>
@@ -377,8 +372,8 @@
 											<string>6170F7CA13921653003E2FE5</string>
 											<string>61F1E15F13EEEF3100EF5D9C</string>
 											<string>61F1E16013EEEF3100EF5D9C</string>
-											<string>61F1E16D13EEEF9F00EF5D9C</string>
-											<string>61F1E16E13EEEF9F00EF5D9C</string>
+											<string>61F1E27E13EFFA4B00EF5D9C</string>
+											<string>61F1E27F13EFFA4B00EF5D9C</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -390,14 +385,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1068, 643}}</string>
+								<string>{{0, 0}, {1068, 639}}</string>
 								<key>RubberWindowFrame</key>
 								<string>70 55 1370 823 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>643pt</string>
+							<string>639pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -410,14 +405,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 648}, {1068, 134}}</string>
+								<string>{{0, 644}, {1068, 138}}</string>
 								<key>RubberWindowFrame</key>
 								<string>70 55 1370 823 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>134pt</string>
+							<string>138pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -436,9 +431,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>61F1E16313EEEF3100EF5D9C</string>
+				<string>61DD6F89146F7427004AF8E0</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>61F1E16413EEEF3100EF5D9C</string>
+				<string>61DD6F8A146F7427004AF8E0</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -559,7 +554,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>334426015.202268</real>
+	<real>342848551.85902601</real>
 	<key>ToolbarConfigUserDefaultsMinorVersion</key>
 	<string>2</string>
 	<key>ToolbarDisplayMode</key>
@@ -576,10 +571,6 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>61F1E17713EEEF9F00EF5D9C</string>
-		<string>61F1E17813EEEF9F00EF5D9C</string>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>61DC60431330A08300397DE8</string>
 		<string>/Users/al/dev/iphone/SensisAPIDemo/SensisAPIDemo.xcodeproj</string>
 	</array>
@@ -661,7 +652,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>61DC60431330A08300397DE8</string>
-				<string>61F1E16513EEEF3100EF5D9C</string>
+				<string>61DD6F8B146F7427004AF8E0</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

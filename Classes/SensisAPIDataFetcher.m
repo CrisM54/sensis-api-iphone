@@ -5,7 +5,7 @@
 #import "urlEncode.h"
 #import "SensisAPIKey.h"
 
-#define SEARCH_URL @"http://api.sensis.com.au/20110229/search?key=" API_KEY
+#define SEARCH_URL @"http://api.sensis.com.au/ob-20110511/test/search?key=" API_KEY
 
 @implementation SensisAPIDataFetcher
 
